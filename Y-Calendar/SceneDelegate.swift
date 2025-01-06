@@ -24,7 +24,9 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
                 let launchVC = LaunchViewController()
                 // Setze den LaunchViewController als Root-View-Controller
                 window?.rootViewController = launchVC
-                window?.makeKeyAndVisible()
+    
+        
+               
     }
     
     
