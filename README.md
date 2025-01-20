@@ -1,10 +1,5 @@
 # Y-Calendar
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22164
-Fork on GitHub
-7104
+
 
 back to edit
 
