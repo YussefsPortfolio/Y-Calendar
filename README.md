@@ -1,14 +1,6 @@
 # Y-Calendar
 
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
 preview
 <h1 align="center">Hello, my Name is Yussef Arsalan</h1>
 <h3 align="center">A passionate student from Germany</h3>
