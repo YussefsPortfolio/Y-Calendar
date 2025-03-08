@@ -33,21 +33,14 @@ class LaunchViewController: UIViewController {
         }
     }
 
+    
     func completeLoadingProcess() {
-        // stops activity indicator
         activityIndicator.stopAnimating()
-
-        // creates mainvc
         let mainVC = ViewController()
-
-        // Launch Scree + transition to Main Screen
-        if let windowScene = view.window?.windowScene {
-            let window = UIWindow(windowScene: windowScene)
+        if let windowScene = UIApplication.shared.connectedScenes.first as? UIWindowScene,
+           let window = windowScene.windows.first {
             window.rootViewController = mainVC
             window.makeKeyAndVisible()
-
-            // Optional: Setzen des Launch-Screens als nicht sichtbar
-            self.view.window?.isHidden = true
         }
     }
 }
