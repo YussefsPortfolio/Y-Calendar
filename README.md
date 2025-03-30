@@ -3,7 +3,7 @@
 <h1 align="center">Hello, my Name is Yussef Arsalan</h1>
 <h3 align="center">A passionate student from Germany</h3>
 
-- 🔭 I’m currently working on [a calendar App] and my bachelors Degree
+- 🔭 I’m currently working on [a calendar App] and my bachelors degree
   
 - 🌱 I’m currently learning **courses about ethical hacking and Assembler**
 
